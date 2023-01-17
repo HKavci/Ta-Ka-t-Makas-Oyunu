@@ -1,1 +1,1 @@
-# Ta-Ka-t-Makas-Oyunu
+# TasKagitMakasOyunu
